@@ -1,0 +1,20 @@
+{
+  "winner": "LogReg_balanced",
+  "model_name": "OSDI6_Model_FINAL_v2025_TOTAL6_v2_LogReg_balanced",
+  "target": "label",
+  "positive_label": 1,
+  "num_cols": [
+    "Age",
+    "cigarettes_per_day",
+    "years_since_surgery"
+  ],
+  "cat_cols": [
+    "Sex",
+    "smoking",
+    "screen_hours_day",
+    "refractive_surgery",
+    "other_eye_surgery",
+    "Eye_drops",
+    "contact_lens_user"
+  ]
+}
