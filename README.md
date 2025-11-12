@@ -54,8 +54,3 @@ OSDI6_arvo/
 
 ---
 
-## 📊 Citation
-Garza León M.A.  
-*OSDI6 TOTAL6: Automated Ocular Surface Model.*  
-Presented at **ARVO 2026**, Denver, USA.
-
