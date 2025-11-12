@@ -12,7 +12,7 @@ The model reproduces the results from the OSDI6 TOTAL6 v2 run, including AUC, AP
 
 ## 🚀 Quick start
 1. Open directly in Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/OSDI6_arvo/blob/main/OSDI6_arvo.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MAGLUDEM/OSDI6_arvo/blob/main/OSDI6_arvo.ipynb)
 2. In Colab, run all cells in order (1–4).  
    Make sure you have the `data/` and `models/` folders available in Drive or in the repo.
 
