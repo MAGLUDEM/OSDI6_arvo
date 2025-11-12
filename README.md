@@ -1,4 +1,4 @@
-# 🧠 OSDI6 arvo – TOTAL6 v2 Model (ARVO 2025)
+# 🧠 OSDI6 arvo – TOTAL6 Model (ARVO 2026)
 
 **Author:** Dr. Manuel A. Garza León  
 **Conference:** ARVO 2025  
