@@ -1,8 +1,8 @@
 # 🧠 OSDI6 arvo – TOTAL6 Model (ARVO 2026)
 
 **Author:** Dr. Manuel A. Garza León  
-**Conference:** ARVO 2025  
-**Institution:** Universidad de Monterrey – Centro Médico Hidalgo  
+**Conference:** ARVO 2026  
+**Institution:** Universidad de Monterrey   
 **Repository:** https://github.com/MAGLUDEM/OSDI6_arvo  
 
 ---
