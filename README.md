@@ -36,15 +36,20 @@ It reproduces the training, evaluation and external validation results presented
 ---
 
 ## 📁 Folder Structure
+OSDI6_arvo/
+│
+├── data/
+│ ├── train.csv
+│ ├── eval.csv
+│ └── external.csv
+│
+├── models/
+│ ├── osdi6_model_config.json
+│ └── osdi6_lr_balanced_colab.joblib
+│
+├── OSDI6_arvo.ipynb
+└── README.md
 
-
-## 🚀 Quick start
-1. Open directly in Colab:  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MAGLUDEM/OSDI6_arvo/blob/main/OSDI6_arvo.ipynb)
-2. In Colab, run all cells in order (1–4).  
-   Make sure you have the `data/` and `models/` folders available in Drive or in the repo.
-
-## 📁 Folder structure
 
 
 ---
